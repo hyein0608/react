@@ -1,6 +1,8 @@
 # https://editorconfig.org
 root = true
+
 # edit1
+45b56658f (no message)
 [*]
 charset = utf-8
 end_of_line = lf
@@ -16,3 +18,7 @@ trim_trailing_whitespace = false
 
 [COMMIT_EDITMSG]
 max_line_length = 0
+
+
+
+# cnflict
