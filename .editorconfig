@@ -1,6 +1,8 @@
 # https://editorconfig.org
 root = true
+
 # edit1
+45b56658f (no message)
 [*]
 charset = utf-8
 end_of_line = lf
